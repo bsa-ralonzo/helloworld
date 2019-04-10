@@ -1,4 +1,4 @@
-
+# This is a comment.
 import sys, math
 
 S = int((sys.argv[1]))
