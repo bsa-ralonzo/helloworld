@@ -1,4 +1,4 @@
-
+# This little program calculates the fibonacci sequence up to a given number.
 import sys, math
 
 fib = [0, 1]
